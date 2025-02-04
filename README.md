@@ -49,7 +49,9 @@ This scanning method, called convolution, extracts meaningful patterns while ign
 #### 4. Collecting Images for Each Category
 
 <img src="https://github.com/user-attachments/assets/b5903a29-8e92-4772-8e9d-28a004040c27" width="30%">
+
 <img src="https://github.com/user-attachments/assets/26bea5f9-6367-4e8c-9242-51c42d59fa48" width="30%">
+
 <img src="https://github.com/user-attachments/assets/67854c6f-9c40-4935-92a5-0fc73c85a491" width="30%">
 
 #### 5. Training a CNN-Based Model for Dog Emotion Classification
@@ -62,9 +64,11 @@ This flexibility allows us to create different image classification models.
 Popular CNN Architectures
 VGGNet
 
+<img src="https://github.com/user-attachments/assets/ff789b2e-e6fb-4634-bcc1-d4d4c70e2d1d" width="30%">
 
 ResNet
-<img src="https://github.com/user-attachments/assets/ff789b2e-e6fb-4634-bcc1-d4d4c70e2d1d" width="30%">
+
+<img src="https://github.com/user-attachments/assets/5bb22a45-c184-4b4a-905e-f64daafd882d" width="30%">
 
 We can experiment with VGGNet, GoogleNet, and ResNet and adjust CNN parameters to build an optimal classification model.
 
