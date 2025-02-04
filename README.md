@@ -37,7 +37,7 @@ Humans recognize a dog in a picture by identifying its features. However, if we 
 #### 3. Convolutional Neural Networks (CNNs) and Feature Extraction
 CNN is a technique that helps AI learn feature information from images.
 
-![Illustration of CNN feature extraction with a moving filter.]
+<img src="https://github.com/user-attachments/assets/4d36731c-634e-49ac-9e70-a3510f78ed8f" width="30%">
 
 CNN scans an image using a small filter and learns distinct features such as:
 
@@ -47,8 +47,8 @@ The nose and mouth are close to each other.
 This scanning method, called convolution, extracts meaningful patterns while ignoring irrelevant background details.
 
 #### 4. Collecting Images for Each Category
-![Various dog images categorized by emotions such as happy, sad, and sleepy.]
 
+<img src="https://github.com/user-attachments/assets/b5903a29-8e92-4772-8e9d-28a004040c27" width="30%">
 #### 5. Training a CNN-Based Model for Dog Emotion Classification
 In a CNN model, we can customize:
 
@@ -58,7 +58,7 @@ This flexibility allows us to create different image classification models.
 
 Popular CNN Architectures
 VGGNet
-![Illustration of VGGNet structure.]
+
 
 ResNet
 ![Illustration of ResNet structure.]
