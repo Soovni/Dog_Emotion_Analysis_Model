@@ -11,16 +11,17 @@ So far, we have worked on numerical and categorical data, setting independent an
 But what about images? We live in an era filled with YouTube, Netflix, Instagram Reels, TV, and photos—can AI learn from image data?
 
 #### Applications of Image & Video Analysis
-Medical Imaging: Detecting brain tumors in MRI scans.
-Autonomous Vehicles: Recognizing pedestrians, vehicles, and roads.
-Traffic Analysis: Real-time congestion detection on highways.
-Security & Surveillance: Detecting human presence in restricted areas via CCTV (e.g., construction sites, banks, homes).
-Weather Forecasting: Analyzing cloud and storm patterns to predict damage and weather conditions.
-Dietary Analysis: Estimating calorie intake from food images.
-Applications of Image Generation
-Style Transfer: Training AI to paint in the style of Van Gogh.
-Fashion Design: Generating new clothing designs.
-Personal Styling: Simulating how new hairstyles would look on an individual.
+- Medical Imaging: Detecting brain tumors in MRI scans.
+- Autonomous Vehicles: Recognizing pedestrians, vehicles, and roads.
+- Traffic Analysis: Real-time congestion detection on highways.
+- Security & Surveillance: Detecting human presence in restricted areas via CCTV (e.g., construction sites, banks, homes).
+- Weather Forecasting: Analyzing cloud and storm patterns to predict damage and weather conditions.
+- Dietary Analysis: Estimating calorie intake from food images.
+- Applications of Image Generation
+- Style Transfer: Training AI to paint in the style of Van Gogh.
+- Fashion Design: Generating new clothing designs.
+- Personal Styling: Simulating how new hairstyles would look on an individual.
+  
 #### 2. How Does AI Learn from Images?
 
 <img src="https://github.com/user-attachments/assets/1dc34df6-cd3e-4423-b8cf-0ecb279b2f25" width="30%">
@@ -41,10 +42,10 @@ CNN is a technique that helps AI learn feature information from images.
 
 CNN scans an image using a small filter and learns distinct features such as:
 
-The nose is positioned between the eyes.
-Ears are located beside the eyes.
-The nose and mouth are close to each other.
-This scanning method, called convolution, extracts meaningful patterns while ignoring irrelevant background details.
+The nose is positioned between the eyes. <br> 
+Ears are located beside the eyes. <br> 
+The nose and mouth are close to each other. <br> 
+This scanning method, called convolution, extracts meaningful patterns while ignoring irrelevant background details. <br> 
 
 #### 4. Collecting Images for Each Category
 
