@@ -1,7 +1,8 @@
 (ENG) 
 ## Guess My Mood!
 
-![DALL·E 2024-11-05 14.12.18 - A playful and joyful dog with expressive eyes, showing a range of emotions such as happiness, curiosity, and excitement. The dog is sitting on a grass.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/8d7ae215-ed29-46ba-88cb-25d0d6cd52f9/a1671611-ec1f-446b-9841-c620a7b2b63f/DALLE_2024-11-05_14.12.18_-_A_playful_and_joyful_dog_with_expressive_eyes_showing_a_range_of_emotions_such_as_happiness_curiosity_and_excitement._The_dog_is_sitting_on_a_grass.webp)
+![Image](https://github.com/user-attachments/assets/484aa3ba-e0d4-4e88-a1ec-4858f36d8929)
+
 
 ### Happy, Sad, Sleepy, Playful, Scared…
 ### Building a Model to Predict Our Furry Friend’s Mood!
@@ -22,7 +23,7 @@ Style Transfer: Training AI to paint in the style of Van Gogh.
 Fashion Design: Generating new clothing designs.
 Personal Styling: Simulating how new hairstyles would look on an individual.
 #### 2. How Does AI Learn from Images?
-![A realistic image of a white dog sitting on grass, divided into a 3x3 grid.]
+
 
 If we directly input this image into a fully connected layer, the AI will only perceive it as a 2D numerical matrix rather than an actual dog.
 
