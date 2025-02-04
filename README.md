@@ -1,7 +1,7 @@
 (ENG) 
 ## Guess My Mood!
 
-![Image](https://github.com/user-attachments/assets/484aa3ba-e0d4-4e88-a1ec-4858f36d8929)
+![Image](https://github.com/user-attachments/assets/484aa3ba-e0d4-4e88-a1ec-4858f36d8929){: width="30%" height="30%"}
 
 
 ### Happy, Sad, Sleepy, Playful, Scared…
@@ -24,10 +24,11 @@ Fashion Design: Generating new clothing designs.
 Personal Styling: Simulating how new hairstyles would look on an individual.
 #### 2. How Does AI Learn from Images?
 
+![Image](https://github.com/user-attachments/assets/1dc34df6-cd3e-4423-b8cf-0ecb279b2f25){: width="30%" height="30%"}
 
 If we directly input this image into a fully connected layer, the AI will only perceive it as a 2D numerical matrix rather than an actual dog.
 
-![Illustration of shuffled image data in a fully connected layer.]
+
 
 This means the AI cannot learn the characteristics of a dog effectively.
 
