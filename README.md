@@ -3,8 +3,6 @@
 
 <img src="https://github.com/user-attachments/assets/484aa3ba-e0d4-4e88-a1ec-4858f36d8929" width="30%">
 
-
-![](link){: width="30%" height="30%"}
 ### Happy, Sad, Sleepy, Playful, Scared…
 ### Building a Model to Predict Our Furry Friend’s Mood!
 #### 1. What is CNN?
@@ -25,10 +23,11 @@ Fashion Design: Generating new clothing designs.
 Personal Styling: Simulating how new hairstyles would look on an individual.
 #### 2. How Does AI Learn from Images?
 
-![Image](https://github.com/user-attachments/assets/1dc34df6-cd3e-4423-b8cf-0ecb279b2f25){: width="30%" height="30%"}
+<img src="https://github.com/user-attachments/assets/1dc34df6-cd3e-4423-b8cf-0ecb279b2f25" width="30%">
 
 If we directly input this image into a fully connected layer, the AI will only perceive it as a 2D numerical matrix rather than an actual dog.
 
+<img src="https://github.com/user-attachments/assets/859c45b2-2b72-4102-b467-77dd23875218" width="30%">
 
 
 This means the AI cannot learn the characteristics of a dog effectively.
@@ -88,6 +87,6 @@ Using pre-trained models (VGGNet, ResNet) for transfer learning to train and tes
 Implementing custom CNNs with manual pooling and convolutional layers.
 5. Deploying the Model
 Once a well-performing model is developed, we deploy it using Streamlit or an application interface.
-This project aims to build and test a CNN-based emotion classification model for dogs using real-world image data! 🚀🐶
+This project aims to build and test a CNN-based emotion classification model for dogs using real-world image data!
 
 
