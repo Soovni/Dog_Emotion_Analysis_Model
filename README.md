@@ -1,9 +1,10 @@
 (ENG) 
 ## Guess My Mood!
 
-![Image](https://github.com/user-attachments/assets/484aa3ba-e0d4-4e88-a1ec-4858f36d8929){: width="30%" height="30%"}
+<img src="https://github.com/user-attachments/assets/484aa3ba-e0d4-4e88-a1ec-4858f36d8929" width="30%">
 
 
+![](link){: width="30%" height="30%"}
 ### Happy, Sad, Sleepy, Playful, Scared…
 ### Building a Model to Predict Our Furry Friend’s Mood!
 #### 1. What is CNN?
